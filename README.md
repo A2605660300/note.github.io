@@ -1,2 +1,2 @@
 # note.github.io
-note
+个人笔记
